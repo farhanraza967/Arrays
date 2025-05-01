@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 #define LIM 3 
-int main(void) 
-{ 
+int main(){ 
 float num[LIM]={12.9, 9.0, 986.89}; 
 char ch[]={'a','b','c','d'};        
                                                                           
