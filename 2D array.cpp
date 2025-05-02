@@ -15,7 +15,7 @@ int main() {
    } 
   } 
   cout<<"\n \n"; 
-  for(i=0;i<row;i++)  // loop for printing 
+  for(i=0;i<row;i++)   
  { 
   for(j=0;j<col;j++) 
   { 
