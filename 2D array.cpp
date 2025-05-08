@@ -2,7 +2,7 @@
 using namespace std; 
 #define row 5 
 #define col 3 
-int main() { 
+int main(){ 
  int i,j; 
     float num[row][col]; 
  cout<<"Enter elements of array:"; 
