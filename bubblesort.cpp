@@ -2,7 +2,7 @@
 #include<conio2.h> 
 using namespace std; 
 int bubblesort(float array[], int N, char order); 
-int main() { 
+int main(){ 
     float num[10]={10.1,2.0,34.5,4.6,-5.7, 
                    6.2,77.0,18.8,9.4,0.0}; 
     char option; 
