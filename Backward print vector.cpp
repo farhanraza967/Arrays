@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-int main(int argc, char** argv) {
+int main(int argc, char** argv){
   vector<string> reverse(0);
   reverse.push_back(argv[1]);
   reverse.push_back(argv[2]);
